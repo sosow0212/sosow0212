@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요. 자바 개발자 이재윤입니다.</h1>
 <h3 align="center">웹 백엔드 개발자</h3>
 
-- 🔭 I’m currently working on [Java Spring](#)
+- 🔭 I’m currently working on [Java](#)
 
 - 🌱 I’m currently learning **Spring, React**
 
