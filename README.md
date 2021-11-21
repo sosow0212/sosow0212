@@ -1,11 +1,11 @@
 <h1 align="center">안녕하세요. 자바 개발자 이재윤입니다.</h1>
-<h3 align="center">웹 백엔드 개발자</h3>
+<h3 align="center">스프링 백엔드 개발자</h3>
 
 - 🔭 I’m currently working on [Java](#)
 
 - 🌱 I’m currently learning **Spring, React**
 
-- 📝 I regularly write articles on [http://blog.naver.com](http://blog.naver.com)
+- 📝 I regularly write articles on [http://blog.naver.com/sosow0212](http://blog.naver.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
