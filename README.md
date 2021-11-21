@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, React**
 
-- 📝 I regularly write articles on [https://blog.naver.com/sosow0212](http://blog.naver.com)
+- 📝 I regularly write articles on [blog.naver.com/sosow0212](http://blog.naver.com/sosow0212)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
