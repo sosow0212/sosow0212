@@ -1,6 +1,7 @@
 <h1 align="center">안녕하세요😃</h1>
 🏛 I’m currently working on
 - Myongji University Information Communication Tech
+<br><br>
 <br>
 
 📚 I’m currently learning<br>
