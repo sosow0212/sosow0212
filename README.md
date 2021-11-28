@@ -6,11 +6,8 @@
 
 📚 I’m currently learning<br>
 - Java Spring boot
-
 - React
 - Database
-<br>
-
 - 📝 I regularly write articles on  [Blog](http://blog.naver.com/sosow0212)
 
 
