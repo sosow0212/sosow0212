@@ -1,16 +1,36 @@
-<h1 align="center">안녕하세요😃</h1>
-🏛 I’m currently working on
-- Myongji University Information Communication Tech
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=600&section=header&text=jj_yoon%20&fontSize=70)
+<hr/>
+
+<div align="center">
+
+# 이재윤 😃
+<p></p>
+
+<hr/>
+
+## Tech 📖
 <br>
 
-📚 I’m currently learning<br>
-- Java Spring boot
-- React
-- Database
-- 📝 I regularly write articles on  [Blog](http://blog.naver.com/sosow0212)
+[![Html](https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white)](#)
+[![Css](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](#)
+[![React](https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=black)](#)
 
+[![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-teal?style=flat-square&logo=JAVA&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-67AA3C?style=flat-square&logo=Spring&logoColor=white)](#)
+[![Mysql](https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=Mysql&logoColor=black)](#)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>    </p>
+[![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-skyblue?style=flat-square&logo=docker&logoColor=blue)](#)
+
+<br>
+<hr/>
+
+## About me 👀
+<br>
+
+[![Blog](https://img.shields.io/badge/Blog-red?style=flat-square&logo=blogger&logoColor=white)](blog.naver.com/sosow0212)
+[![백준](https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white)](https://solved.ac/profile/sosow0212)
+
+</div>
