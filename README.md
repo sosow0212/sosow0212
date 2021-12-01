@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=jj_yoon%20&fontSize=70)
+
 <hr/>
 
 <div align="center">
@@ -34,5 +35,6 @@
 
 [![Blog](https://img.shields.io/badge/Blog-red?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/sosow0212)
 [![백준](https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white)](https://solved.ac/profile/sosow0212)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sosow0212@naver.com)
 
 </div>
