@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<!-- # 이재윤 😃
-<p></p> -->
-
-<hr/>
  
 <p>안녕하세요. 웹 백엔드 개발을 하고 있는 이재윤입니다. 주로 스프링 개발을 하고 있습니다. <br>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sosow0212@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-red?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/sosow0212)
 [![백준](https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white)](https://solved.ac/profile/sosow0212)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sosow0212@naver.com)
+
+ <br>
  
 ## Tech 📖
 <br>
