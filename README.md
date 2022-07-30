@@ -19,6 +19,7 @@
 
 
 [![Java](https://img.shields.io/badge/Java-teal?style=flat-square&logo=Java&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/Spring-67AA3C?style=flat-square&logo=Spring&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask&logoColor=black)](#)
 [![Mysql](https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=Mysql&logoColor=black)](#)
