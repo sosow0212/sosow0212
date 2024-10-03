@@ -12,5 +12,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sosow0212)](https://solved.ac/sosow0212/)
 
 ## 📘 Latest Blog Posts
+## 📘 Latest Blog Posts
+- [기록 잡화점](https://blog.naver.com/sosow0212)
+- [pop-cloud #3 : 중복 스케줄러를 막고, 실패시 재처리 작업 진행하기 (DistributionLock, Idempotency, Retry)](https://blog.naver.com/sosow0212)
+- [pop-cloud #2 : Redis를 이용한 인기 쇼케이스 캐싱 및 조회수 치팅 방지하기, Batch 스케줄러 작업 추가](https://blog.naver.com/sosow0212)
 
 <!-- 블로그 포스트가 여기 표시될 것입니다. -->
