@@ -1,12 +1,5 @@
 ## Experience
 
-### Gabia
-Backend Engineer  
-Nov 2024 – Present
-
-### Woowacourse 5th BE
-Feb 2023 – Nov 2023
-
-### Myongji University
-B.S. in ICT Engineering  
-Mar 2018 – Feb 2025
+- **Backend Engineer**, Gabia *(2024.11 – Present)*
+- **Woowacourse 5th Backend** *(2023.02 – 2023.11)*
+- **B.S. in ICT Engineering**, Myongji University *(2018.03 – 2025.02)*
