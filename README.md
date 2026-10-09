@@ -1,6 +1,6 @@
 ## Experience & Education
 
-- **MakinaRocks** (Forward Deployed Software Engineer) - 2026. 08 ~
+- **MakinaRocks** (Forward Deployed Engineer, Software) - 2026. 08 ~
 
 - **Gabia** (Backend Engineer) - 2024. 11 ~ 2026. 08
 
